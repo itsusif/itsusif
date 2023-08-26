@@ -1,14 +1,63 @@
-<h1 align="center">Hi 👋, I'm usifnageeb</h1>
-<h3 align="center">A backend developer from Egypt</h3>
+### Hello, my name is Youssef nagibb <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://discord.com/users/833340407130882068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="11111" height="30" width="40" /></a>
-<p align="left">
+---
+
+<br />
+
+- I am a backend developer from Egypt.
+- I specialize in Node.js and have a passion for building websites, particularly e-commerce platforms.
+- I have experience creating various types of websites and I'm confident in my ability to tackle any web development project.
+- Additionally, I'm interested in creating Discord bots and working within the Discord ecosystem.
+
+<br />
+
+---
+
+<br />
+
+### 🧰 Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+<img align="left" alt="Node.js" width="30px" width="30px" src="https://github.com/itsusif/itsusif/assets/82738210/2e4442fc-5290-45a2-8f13-28555cf81fe7" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+
+<br />
+
+<br />
+
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=itsusif&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+
+<!--   Stats -->
+### 📊 GitHub Stats:
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsusif&theme=nord&show_icons=true&count_private=true)
+
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsusif&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsusif&theme=nord_dark)
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsusif&theme=github)
+
+<br> 
+ 
+<hr>
+ 
+<br>
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/itsusif/count.svg" />  
 </p>
+   
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsusif&show_icons=true&locale=en&layout=compact" alt="itsusif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsusif&show_icons=true&locale=en" alt="itsusif" /></p>
+*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
