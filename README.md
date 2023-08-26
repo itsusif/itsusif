@@ -40,10 +40,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsusif&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsusif&theme=nord_dark)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsusif&theme=github)
-
 <br> 
  
 <hr>
