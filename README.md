@@ -1,6 +1,12 @@
 ## **About Me** 🌍
 
-Hello! I'm a 15-year-old backend developer from Alexandria, Egypt. Currently, I'm a Senior 2 student with a passion for coding and a strong background in backend development.
+
+Hello! my name is Youssef nagibb. <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> 
+<br />
+<br />
+I'm a 15-year-old backend developer from Alexandria, Egypt. Currently, I'm a Senior 2 student with a passion for coding and a strong background in backend development.
+
+I'm coding about [![Joe's wakatime time](https://wakatime.com/badge/user/d9cc84a7-47ef-4c4e-bcac-5fd536875d2e.svg?style=social)](https://wakatime.com/@d9cc84a7-47ef-4c4e-bcac-5fd536875d2e)
 
 ---
 
@@ -22,14 +28,12 @@ Hello! I'm a 15-year-old backend developer from Alexandria, Egypt. Currently, I'
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Additional Skills**:
-  - **Frontend Development:**
+- **Frontend Development:**
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  - **Mobile Development:**
+- **Mobile Development:**
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
@@ -45,6 +49,7 @@ Hello! I'm a 15-year-old backend developer from Alexandria, Egypt. Currently, I'
 - Typed away with TypeScript for super-smooth coding adventures.
 - Dockerized apps for easy peasy deployment and managed web servers with Nginx.
 - Rocked Git to collaborate on projects like a pro.
+- Tracked coding hours with WakaTime, optimizing productivity and coding efficiency.
 
 ---
 
@@ -54,6 +59,12 @@ Hello! I'm a 15-year-old backend developer from Alexandria, Egypt. Currently, I'
   - Pursuing studies in a comprehensive school curriculum.
   - Focused on general academics and exploring various subjects.
   - Engaged in extracurricular activities to broaden knowledge and skills.
+
+---
+## **Statistics** 🕒
+
+![Joe's wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsusif&theme=transparent&layout=compact)
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsusif&show_icons=true&theme=transparent)
 
 ---
 
