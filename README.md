@@ -29,7 +29,7 @@ I'm coding about [![Joe's wakatime time](https://wakatime.com/badge/user/d9cc84a
 
 ### **Frontend Development:**
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,svelte,bootstrap" alt="Frontend Development">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,svelte,bootstrap,tailwindcss" alt="Frontend Development">
 </div>
 
 ---
