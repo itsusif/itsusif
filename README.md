@@ -17,9 +17,9 @@ I'm a dedicated backend developer from Alexandria, Egypt with a passion for buil
 ```javascript
 const youssef = {
   location: "Alexandria, Egypt",
-  education: "Senior 2 Student",
+  education: "Senior 3 Student",
   specialization: "Backend Development",
-  experience: "2+ years",
+  experience: "3+ years",
   languages: ["JavaScript", "TypeScript", "SQL", "HTML", "CSS"],
   currentlyLearning: ["System Design", "Cloud Architecture", "Performance Optimization"]
 };
@@ -89,7 +89,7 @@ const youssef = {
 
 ## 🚀 Professional Experience
 
-With over 2 years of backend development experience, I've successfully:
+With over 3 years of backend development experience, I've successfully:
 
 * Architected and implemented e-commerce backends supporting thousands of transactions
 * Developed real-time communication systems using WebSockets and event-driven architecture
@@ -101,7 +101,7 @@ With over 2 years of backend development experience, I've successfully:
 
 ## 📚 Education
 
-* **Senior 2 Student** - Currently pursuing a rigorous STEM-focused curriculum
+* **Senior 3 Student** - Currently pursuing a rigorous STEM-focused curriculum
 * **Self-directed Learning** - Continuously expanding knowledge through online courses, documentation, and hands-on projects
 * **Technical Workshops** - Regular participation in coding competitions and developer meetups
 
