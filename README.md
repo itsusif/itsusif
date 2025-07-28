@@ -32,7 +32,7 @@ const youssef = {
     <td valign="top" width="33%">
       <h3>Backend</h3>
       <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,graphql,js,ts" alt="Backend Technologies" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,graphql,js,ts,cloudflare" alt="Backend Technologies" />
       </div>
     </td>
     <td valign="top" width="33%">
